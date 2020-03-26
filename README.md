@@ -21,5 +21,7 @@ Seeing the spread of COVID-19 in India, I was curious to see how the virus was a
 ## <a name="res">4. Results</a>
 The rates of infection, cure and deaths were analysed for the Top 5 Infected states of India. A Medium blog post on the same can be found [here](https://medium.com/@sharmadivyanshu1709/covid-19-and-india-a-brief-analysis-of-the-most-affected-states-2c920223e118)
 
+![Comparison of Infection Rates for Different States](/Images/Compare.png?raw=true "Comparison of Infection Rates for Different State")
+
 ## <a name="ack">5. Acknowledgements</a>
-Would like to thank sudalairajkumar for curating and sharing the dataset on Kaggle
+Would like to thank sudalairajkumar for curating and sharing the dataset on Kaggle. The dataset has a CC0 licence.
